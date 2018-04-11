@@ -41,3 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: 'Sky: Background'
+    uniqueID: 2643119733
+    locked: 0
+  - name: 'Grass: World'
+    uniqueID: 2198609553
+    locked: 0
+  - name: 'Bird: Character'
+    uniqueID: 4184017525
+    locked: 0
